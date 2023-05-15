@@ -2,6 +2,7 @@
 #'
 #' @param input_df A matrix or Dataframe of beta values
 #' @return A named vector containing predicted days since first treatment.
+#' @export
 #' @examples
 #' restults <- DaysFromTreatment(df)
 #' restults <- DaysFromTreatment(mat)

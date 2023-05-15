@@ -8,6 +8,7 @@
 #'
 #' @keywords datasets
 #'
+#' @export
 #'
 #' @examples
 #' data(Example_Data_Matrix)

@@ -1,4 +1,5 @@
 #' Internal function to process beta-value columns into methylation treatment scores
+#' @export
 
 get_score <- function(sample_beta_column){
   #LOAD CPG REFERENCE
@@ -11,6 +12,7 @@ get_score <- function(sample_beta_column){
 #' @param input_df A matrix or Dataframe of beta values
 #' @param threshold Threshold for methylation score (double), -0.42 as default
 #' @return A dataframe with two columns,all_scores and ifn_status
+#' @export
 #' @examples
 #' restults <- isTreated(df, -0.3)
 #' restults <- isTreated(mat)

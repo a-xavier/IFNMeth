@@ -8,6 +8,7 @@
 #'
 #' @keywords datasets
 #'
+#' @export
 #'
 #' @examples
 #' data(ifn_reference_cpgs)
