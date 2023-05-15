@@ -9,8 +9,6 @@
 
 
 DaysFromTreatment <- function(input_df){
-  #LOAD CPG REFERENCE
-  data(ifn_reference_cpgs)
   # INPUT CAN BE EITHER A MATRIX OR DATAFRAME
   # OTHERWISE THROWS AN ERROR
   if (!is.data.frame(input_df) & !is.matrix(input_df)){

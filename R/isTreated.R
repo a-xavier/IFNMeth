@@ -19,8 +19,6 @@ get_score <- function(sample_beta_column){
 
 isTreated <- function(input_df,
                       threshold = -0.42){
-  #LOAD CPG REFERENCE
-  data(ifn_reference_cpgs)
   # INPUT CAN BE EITHER A MATRIX OR DATAFRAME
   # OTHERWISE THROWS AN ERROR
   if (!is.data.frame(input_df) & !is.matrix(input_df)){
