@@ -22,8 +22,8 @@ IFNMeth currently includes 2 functions:
    The return value is a named vector with a number of days for each sample representing estimated days since first treatment.  
    
 ### Reference
-Xavier, A., M. P. Campagna, V. Maltby, T. Kilpatrick, B. Taylor, H. Butzkueven, A.-L. Ponsonby, R. Scott, V. Jokubaitis, R. Lea & J. Lechner-Scott (2023) Interferon Beta treatment is a potent and targeted epigenetic modifier in multiple sclerosis. Frontiers in Immunology, 14.
-![image](https://github.com/a-xavier/IFNMeth/assets/43228621/cebdc0e3-6b97-4e78-ae41-b9e931672cd6)
+[Xavier, A., M. P. Campagna, V. Maltby, T. Kilpatrick, B. Taylor, H. Butzkueven, A.-L. Ponsonby, R. Scott, V. Jokubaitis, R. Lea & J. Lechner-Scott (2023) Interferon Beta treatment is a potent and targeted epigenetic modifier in multiple sclerosis. Frontiers in Immunology, 14.](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1162796/full)
+
 
    
    
