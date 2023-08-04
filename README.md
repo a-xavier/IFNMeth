@@ -9,6 +9,7 @@ If ```devtools``` is already installed.
   
 Otherwise install ```devtools``` first:  
 ```install.packages("devtools")```  
+```library("devtools")```  
 
 ### Usage 
 IFNMeth currently includes 2 functions:  
